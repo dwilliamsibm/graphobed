@@ -9,7 +9,7 @@ This script relies on: jquery, easeljs and math.js
 
 @version 0.0.1
 
-@date    2015-04-02
+@date    2015-04-03
 
 @license
 Copyright (C) 2015 Kai Noack 
